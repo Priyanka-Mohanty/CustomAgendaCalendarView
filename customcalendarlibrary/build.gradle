@@ -1,9 +1,7 @@
-apply plugin: 'com.android.feature'
+apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 27
-
-    baseFeature true
 
     defaultConfig {
         minSdkVersion 14
@@ -42,6 +40,4 @@ dependencies {
     api 'se.emilsjolander:stickylistheaders:2.7.0'
     api 'io.reactivex:rxjava:1.1.1'
 
-
-    application project(':app')
 }
