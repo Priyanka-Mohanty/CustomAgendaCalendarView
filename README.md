@@ -5,12 +5,6 @@ This library replicates the basic features of the Calendar and Agenda views from
 Usage
 ===============================
 
-Grab it from maven:
-
-```groovy
-    compile 'com.github.priyankam:agendacalendarview:1.0.0'
-````  
-
 Declare this view in your layout like below, providing your own theme and colors if you want.
 
 ```java
