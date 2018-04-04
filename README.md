@@ -2,6 +2,8 @@
 
 This library replicates the basic features of the Calendar and Agenda views from the Sunrise Calendar (now Outlook) app and AgendaCalendarView, coupled with some small design touch from the Google Calendar app.  
 
+![](https://github.com/Priyanka-Mohanty/CustomAgendaCalendarView/blob/master/Screenshot_20180404-171907.png)
+
 Usage
 ===============================
 
